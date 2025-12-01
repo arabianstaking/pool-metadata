@@ -1,0 +1,16 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/arabianstaking/pool-metadata/main/icon64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/arabianstaking/pool-metadata/main/logo.png",
+    "location": "Middle East",
+    "social": {
+      "twitter_handle": "ArabianStaking",
+      "telegram_handle": "arabianstaking",
+      "github_handle": "arabianstaking"
+    },
+    "about": {
+      "me": "Experienced Cardano stake pool operator committed to network security and decentralization.",
+      "server": "High-availability infrastructure with 24/7 monitoring and redundant relays."
+    }
+  }
+}
