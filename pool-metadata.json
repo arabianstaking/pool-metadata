@@ -1,0 +1,7 @@
+{
+  "name": "Arabian Staking Hub",
+  "description": "Secure and reliable Cardano stake pool operated from the Middle East. High availability, 24/7 monitoring, and commitment to network decentralization.",
+  "ticker": "ARAB",
+  "homepage": "https://arabianstaking.github.io",
+  "extended": "https://raw.githubusercontent.com/arabianstaking/pool-metadata/main/extended-metadata.json"
+}
